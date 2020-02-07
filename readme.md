@@ -1,3 +1,5 @@
+![Node.js CI](https://github.com/jpeerz/fourpagesdotcom/workflows/Node.js%20CI/badge.svg)
+
 ## Setup osx development environment
 
 	git clone git@github.com:jpeerz/fourpagesdotcom.git .
